@@ -17,6 +17,7 @@ font-weight: 500;
 }
 
 
+
 /* header section start */
 header{
     /* width: auto; */
@@ -87,6 +88,7 @@ font-weight: 800;
 
 .instagram section{
     margin-top: 50px;
+    margin-bottom: 40px;
 }
 .insta-info{
 
@@ -108,16 +110,51 @@ margin-bottom: 50px;
     gap: 20px;
     width: 200px;
 height: 250px;
-margin-left: 90px;
-/* margin-left: auto; */
-/* margin-right: auto; */
+margin: 20px 150px;
 width: 50%;
-/* padding: 20px 50px 10px 50px; */
-    /* width: 25%;
-    margin: 10px 30px;
-     */
+
     
 }
 /* instagram section end */
+
+/* lateast-deal-section start  */
+.lateast-deal-section{
+background-image: url('../Flower\ Asset/Rectangle 9.png');
+background-repeat: no-repeat;
+width: 75%;
+border-radius: 8px;
+margin: auto;
+padding: 30px 50px;
+
+}
+.lateast-deal-info{
+
+}
+.lateast-deal-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.lateast-deal-description{
+    color: #27272799;
+    text-align: center;
+   
+}
+
+.lateast-deal-bar{
+display: flex;
+text-align: center;
+align-items: center;
+}
+.lateast-deal-bar > input{
+    border-radius: 8px;
+background: #FFF;
+    width: 100%;
+    padding: 12px 0 13px 30px;
+    border: 0;
+margin-right: 15px;}
+
+/* lateast-deal-section end  */
 
 /* main section  */
