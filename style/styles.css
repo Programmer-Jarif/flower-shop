@@ -158,3 +158,30 @@ margin-right: 15px;}
 /* lateast-deal-section end  */
 
 /* main section  */
+
+
+/* footer start  */
+footer{
+    background: #111010;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+.footer-title{
+    color: #FFF;
+font-size: 30px;
+font-weight: 800;
+}
+.footer-span{
+    color: #E55473;
+
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 14px;
+}
+.footer-copyright{
+    color: #ffffff66;
+    font-size: 12px;
+}
+/* footer end */
