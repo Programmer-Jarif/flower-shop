@@ -92,6 +92,25 @@ background: #a7216226;
     margin-bottom: 100px;
 }
 
+
+/* delivery-section */
+.delivery-section{
+    display: flex;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+margin: 30px 200px 40px 200px;
+justify-content: space-around;
+padding: 20px 30px;
+margin-bottom: 50px;
+
+}
+
+.delivery-man{
+    align-items: center;
+    text-align: center;
+    
+}
+
 /* hot deal area start  */
 .hot-deal-section{
     display: flex;
@@ -100,6 +119,9 @@ background: #e554730d;
     padding: 50px 200px;
     align-items: center;
     gap: 80px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+
 }
 .hot-deal-info{
     text-align: center;
@@ -166,6 +188,8 @@ width: 75%;
 border-radius: 8px;
 margin: auto;
 padding: 30px 50px;
+margin-top: 100px;
+margin-bottom: 80px;
 
 }
 .lateast-deal-info{
